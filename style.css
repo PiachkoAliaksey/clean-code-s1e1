@@ -43,7 +43,7 @@
     flex-grow: 1;
 }
 
-.task-row-wrapper {
+.main-container__block-add-task__task-row-wrapper {
     display: flex;
 }
 
