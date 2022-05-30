@@ -137,7 +137,7 @@ h3,
     margin: 0 10px;
 }
 
-.main-container__item-tasks > label {
+.main-container__item-tasks > .main-container__label {
     padding-left: 10px;
     box-sizing: border-box;
     font-size: 18px;
