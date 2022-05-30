@@ -66,7 +66,7 @@ h3 {
     outline: none;
 }
 
-button {
+.main-container__item-tasks__button {
     background: none;
     border: 0px;
     color: #888;
