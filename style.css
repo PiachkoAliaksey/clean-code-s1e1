@@ -133,7 +133,7 @@ h3,
     vertical-align: middle;
 }
 
-.main-container__item-tasks > input[type="checkbox"] {
+.main-container__item-tasks > .main-container__item-tasks__input-button_checkbox {
     margin: 0 10px;
 }
 
