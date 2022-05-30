@@ -76,7 +76,7 @@ h3 {
     cursor: pointer;
 }
 
-button:hover {
+.main-container__item-tasks__button:hover {
     color: #3a3A3a;
 }
 
