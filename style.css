@@ -165,15 +165,15 @@ ul#completed-tasks label {
 }
 
 /* Edit Task */
-ul li .main-container__item-tasks__input-button_text {
+.main-container__items-tasks .main-container__item-tasks .main-container__item-tasks__input-button_text {
     display:none;
 }
 
-ul li.editMode .main-container__item-tasks__input-button_text {
+.main-container__items-tasks  .main-container__item-tasks.editMode .main-container__item-tasks__input-button_text {
     display:inline-block;
     width:224px;
 }
 
-ul li.editMode label {
+.main-container__items-tasks .main-container__item-tasks.editMode .main-container__label {
     display:none;
 }
