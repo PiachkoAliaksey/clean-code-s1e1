@@ -129,32 +129,32 @@ h3,
     align-items: center;
 }
 
-li > * {
+.main-container__item-tasks > * {
     vertical-align: middle;
 }
 
-li > input[type="checkbox"] {
+.main-container__item-tasks > input[type="checkbox"] {
     margin: 0 10px;
 }
 
-li > label {
+.main-container__item-tasks > label {
     padding-left: 10px;
     box-sizing: border-box;
     font-size: 18px;
     width: 226px;
 }
 
-li > .main-container__item-tasks__input-button_text {
+.main-container__item-tasks > .main-container__item-tasks__input-button_text {
     width: 226px;
 }
 
-button.delete img {
+.main-container__item-tasks__button.delete img {
     height: 2em;
     transform: rotateZ(45deg);
     transition: transform 200ms ease-in;
 }
 
-button.delete img:hover {
+.main-container__item-tasks__button.delete img:hover {
     transform: rotateZ(0);
 }
 
