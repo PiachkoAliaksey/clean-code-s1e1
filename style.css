@@ -120,11 +120,10 @@ h3,
 }
 
 /* Task list */
-li {
+.main-container__item-tasks {
     overflow: hidden;
     padding: 20px 0;
     border-bottom: 1px solid #eee;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
