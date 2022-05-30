@@ -170,10 +170,10 @@ ul#completed-tasks label {
 }
 
 .main-container__items-tasks  .main-container__item-tasks.editMode .main-container__item-tasks__input-button_text {
-    display:inline-block;
-    width:224px;
+    display: inline-block;
+    width: 224px;
 }
 
 .main-container__items-tasks .main-container__item-tasks.editMode .main-container__label {
-    display:none;
+    display: none;
 }
