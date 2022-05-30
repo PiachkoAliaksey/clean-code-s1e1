@@ -166,7 +166,7 @@ ul#completed-tasks label {
 
 /* Edit Task */
 .main-container__items-tasks .main-container__item-tasks .main-container__item-tasks__input-button_text {
-    display:none;
+    display: none;
 }
 
 .main-container__items-tasks  .main-container__item-tasks.editMode .main-container__item-tasks__input-button_text {
