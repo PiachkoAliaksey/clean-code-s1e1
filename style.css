@@ -57,7 +57,7 @@
 }
 
 
-h3 {
+.main-container__title-h3 {
     list-style: none;
 }
 
@@ -81,7 +81,7 @@ h3 {
 }
 
 /* Heading */
-h3,
+.main-container__title-h3,
 .main-container__label__new-task {
     color: #333;
     font-weight: 700;
