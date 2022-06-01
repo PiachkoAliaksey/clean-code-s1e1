@@ -35,7 +35,7 @@
     margin: 0 auto 0;
 }
 
-.main-container__block-add-task{
+.main-container__block-add-task {
     margin: 1em 0;
 }
 
@@ -54,7 +54,7 @@
     padding: 0;
 }
 
-.main-container__item-tasks{
+.main-container__item-tasks {
     list-style: none;
 }
 
@@ -64,7 +64,7 @@
 }
 
 
-.main-container__item-tasks__input-button{
+.main-container__item-tasks__input-button {
     outline: none;
 }
 
